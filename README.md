@@ -3,16 +3,16 @@ Ejercicio Final Módulo 3
 Ejercicio
 - Fase 1: Exploración y Limpieza
 1. Exploración Inicial:
-￿ Realiza una exploración inicial de los datos para identificar posibles problemas,
+- Realiza una exploración inicial de los datos para identificar posibles problemas,
 como valores nulos, atípicos o datos faltantes en las columnas relevantes.
-￿ Utiliza funciones de Pandas para obtener información sobre la estructura de los
+- Utiliza funciones de Pandas para obtener información sobre la estructura de los
 datos, la presencia de valores nulos y estadísticas básicas de las columnas
 involucradas.
-￿ Une los dos conjuntos de datos de la forma más eficiente.
+- Une los dos conjuntos de datos de la forma más eficiente.
 2. Limpieza de Datos:
-￿ Elimina o trata los valores nulos, si los hay, en las columnas clave para asegurar
+- Elimina o trata los valores nulos, si los hay, en las columnas clave para asegurar
 que los datos estén completos.
-￿ Verifica la consistencia y corrección de los datos para asegurarte de que los
+- Verifica la consistencia y corrección de los datos para asegurarte de que los
 datos se presenten de forma coherente.
 ￿ Realiza cualquier ajuste o conversión necesaria en las columnas (por ejemplo,
 cambiar tipos de datos) para garantizar la adecuación de los datos para el
@@ -34,10 +34,10 @@ Utilizando un conjunto de datos que hemos compartido, se busca evaluar si existe
 significativas en el número de vuelos reservados según el nivel educativo de los clientes. Para
 ello, los pasos que deberas seguir son:
 9. Preparación de Datos:
-￿ Filtra el conjunto de datos para incluir únicamente las columnas relevantes:
+- Filtra el conjunto de datos para incluir únicamente las columnas relevantes:
 'Flights Booked' y 'Education'.
 10. Análisis Descriptivo:
-￿ Agrupa los datos por nivel educativo y calcula estadísticas descriptivas básicas
+- Agrupa los datos por nivel educativo y calcula estadísticas descriptivas básicas
 (como el promedio, la desviación estandar, los percentiles) del número de vuelos
 reservados para cada grupo.
 11. Prueba Estadística:
