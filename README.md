@@ -3,7 +3,7 @@
 
 
 # Fase 1: Exploración y Limpieza
-- 
+
 1. Exploración Inicial:
 - Realiza una exploración inicial de los datos para identificar posibles problemas,
 como valores nulos, atípicos o datos faltantes en las columnas relevantes.
