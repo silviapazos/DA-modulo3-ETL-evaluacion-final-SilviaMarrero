@@ -1,6 +1,6 @@
 # Evaluacion final del modulo 3 
 
-**Enunciado del Ejercicio**
+
 
 # Fase 1: Exploración y Limpieza
 - 
