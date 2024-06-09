@@ -14,7 +14,7 @@ involucradas.
 que los datos estén completos.
 - Verifica la consistencia y corrección de los datos para asegurarte de que los
 datos se presenten de forma coherente.
-￿ Realiza cualquier ajuste o conversión necesaria en las columnas (por ejemplo,
+- Realiza cualquier ajuste o conversión necesaria en las columnas (por ejemplo,
 cambiar tipos de datos) para garantizar la adecuación de los datos para el
 análisis estadístico.
 - Fase 2: Visualización
@@ -41,7 +41,7 @@ ello, los pasos que deberas seguir son:
 (como el promedio, la desviación estandar, los percentiles) del número de vuelos
 reservados para cada grupo.
 11. Prueba Estadística:
-￿ Realiza una prueba de A/B testing para determinar si existe una diferencia
+- Realiza una prueba de A/B testing para determinar si existe una diferencia
 significativa en el número de vuelos reservados entre los diferentes niveles
 educativos.
 Los Datos
